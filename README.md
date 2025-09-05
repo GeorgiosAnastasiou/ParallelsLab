@@ -1,1 +1,1 @@
-A parallels Lab Project, with its project presentation, for now.
+# A project testing algorithms such as Kmeans, running the game of life, and others with many different settings for how many cores would run the algorithm each time, and settings changing such as timeout. Testing on GPUs, CPUs, and graphs, all visible within the main report which is uploaded here as a PDF file, available for download so that its hyperlinks work. 
